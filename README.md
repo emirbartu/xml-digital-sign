@@ -6,8 +6,8 @@ This application validates digital signatures of XML documents according to XMLD
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/xmlci.git
-   cd xmlci
+   git clone https://github.com/emirbartu/xml-digital-sign.git
+   cd xml-digital-sign
    ```
 
 2. Install dependencies:
